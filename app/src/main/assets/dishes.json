@@ -1,0 +1,136 @@
+{
+  "country": [
+    {
+      "name": "CHINESE",
+      "dishes": [
+        {
+          "dishname": "Dumplings",
+          "image":"dumplings",
+          "description": "Dumplings are either pan fried using a simple recipe including all-purpose flour, water, and salt made into a thick dough before frying on a pan until golden brown, or boiled in a soup. The fried version is usually served with breakfast codfish as a side."
+        },
+        {
+          "dishname": "Chow Mein",
+          "image":"chowmein",
+          "description":"Cantonese style chow mein contains deep-fried crunchy golden egg noodles, green peppers, pea pods, bok choy, bamboo shoots, water chestnuts, shrimp, Chinese roast pork (char siu), chicken, and beef, and is served in a thick sauce."
+        },
+        {
+          "dishname": "Spring Rolls",
+          "image":"springrolls",
+          "description":"Spring roll is a fried dish usually available as a dim sum. They typically contain minced pork, shredded carrot, bean sprouts and other vegetables served with a sauce similar to Worcestershire sauce."
+
+        },
+        {
+          "dishname": "Manchurian",
+          "image":"manchurian",
+          "description":"Gobi Manchurian is an Indian Chinese fried cauliflower food item popular in India. Gobi (Cauliflower) Manchurian is the result of the adaptation of Chinese cooking and seasoning techniques to suit Indian tastes. ... Its taste can vary from mild spicy to hot and fiery based on the recipe and personal preference."
+
+        },
+        {
+          "dishname": "Manchow Soup",
+          "image":"manchowsoup",
+          "description":"Soup. Place of origin. ... Manchow soup is a soup popular in Indian Chinese cuisine due to its ease of preparation and hot spicy taste. It is available in large restaurants and street food carts alike. Although the soup is named after Manchuria it does not resemble any that is normally found in the cuisines of the region."
+
+        }
+      ]
+    },
+    {
+      "name": "INDIAN",
+      "image":"india",
+      "dishes": [
+        {
+          "dishname": "Dal Makhani",
+          "image":"dalmakhani",
+          "description":"Dal makhani or dal makhni (pronounced daal ma-khaa-nee, 'buttery lentils') is a popular dish from the Punjab region of India and Pakistan. The primary ingredients are whole black lentil (urad), red kidney beans (rajma), butter and cream."
+
+        },
+        {
+          "dishname": "Biriyani",
+          "image":"biriyani",
+          "description":"Learn About This Indian Food. ... A world-renowned Indian dish, biryani takes time and practice to make but is worth every bit of the effort. Long-grained rice (like basmati) flavored with exotic spices such as saffron is layered with lamb, chicken, fish, or vegetables cooked in a thick gravy."
+
+        },
+        {
+          "dishname": "Chana Masala",
+          "image":"chanamasala",
+          "description":"Ingredients. Along with chickpeas, the ingredients of chana masala typically include onion, chopped tomatoes, coriander seed, garlic, chillies, ginger, dried mango powder (amchur, sometimes spelled 'amchoor'), crushed pomegranate seed (anardana) and garam masala."
+
+        },
+        {
+          "dishname": "Butter Chicken",
+          "image":"butterchicken",
+          "description":"The spices may include garam masala, ginger, garlic, lemon or lime, pepper, coriander, cumin, turmeric and chili. The chicken is usually cooked in a tandoor (traditional clay oven), but may be grilled, roasted, or pan fried. It is served in a mild curry sauce that includes butter."
+
+        },
+        {
+          "dishname": "Medu Vada",
+          "image":"meduvada",
+          "description":"Medu vada (pronounced [meːd̪ʊ vəɽaː]; literally 'soft vada') is an Indian fritter made from Vigna mungo (black lentil or urad dal). It is usually made in doughnut-shape, with a crispy exterior and soft interior."
+
+
+        },
+        {
+          "dishname": "Navratan Korma",
+          "image":"navratankorma",
+          "description":"Navratan Korma is a rich, creamy and flavorful dish that literally translates to nine-gem curry. The “gems” are the fruits, vegetables and nuts that make up the curry. ... They usually include dried fruit and nuts like golden raisins and cashews as well as heavy cream or coconut milk"
+
+        }
+      ]
+    },
+    {
+      "name": "JAPANESE",
+      "image":"japan",
+      "dishes": [
+        {
+          "dishname": "Makizushi",
+          "image":"makizushi",
+          "description":"Makizushi are also referred to 'nori maki' or 'norimaki', because the sushi rice and fillings are all wrapped up, or rolled inside roasted dried seaweed, or 'nori' as it is referred to it in Japanese cuisine."
+
+        },
+        {
+          "dishname": "Miso Soup",
+          "image":"misosoup",
+          "description":"Dashi is a basic stock used in Japanese cooking which is made by boiling dried kelp (seaweed) and dried bonito (fish). Instant dashi granules are sold in conveniently-sized jars or packets and vary in strength. Add more dashi to your soup if you want a stronger stock."
+
+        },
+        {
+          "dishname": "Yakitori",
+          "image":"yakitori",
+          "description":"Yakitori (焼き鳥) literally means grilled chicken and also refers to skewered food in general. Yakitori is commonly made with bite-sized pieces of chicken meat, chicken offal, or other meats and vegetables skewered on a bamboo stick and grilled over binchōtan charcoal."
+
+        }
+
+      ]
+    },    {
+      "name": "ITALIAN",
+      "image":"italian",
+      "dishes": [
+        {
+          "dishname": "Panzenella",
+          "image":"panzenella",
+          "description":"Panzanella [pantsaˈnɛlla] or panmolle [pamˈmɔlle] is a Tuscan salad of bread and tomatoes that is popular in the summer. It includes chunks of soaked stale bread and tomatoes, sometimes also onions and basil, dressed with olive oil and vinegar."
+
+        },
+        {
+          "dishname": "Bruschetta",
+          "image":"bruschetta",
+          "description":"Definition of bruschetta. : thick slices of bread grilled, rubbed with garlic, drizzled with olive oil, often topped with tomatoes and herbs, and usually served as an appetizer."
+
+        },
+        {
+          "dishname": "Focaccia Bread",
+          "image":"focaccia_bread",
+          "description":"Italy. Main ingredients. ... Focaccia (Italian pronunciation: [foˈkat͡ʃːa]) is a flat oven-baked Italian bread product similar in style and texture to pizza doughs. It may be topped with herbs or other ingredients."
+
+        },
+        {
+          "dishname":"Mushroom Risotto",
+          "image":"mushroom_risotto",
+          "description":"Add 1/2 cup broth to the rice, and stir until the broth is absorbed. Continue adding broth 1/2 cup at a time, stirring continuously, until the liquid is absorbed and the rice is al dente, about 15 to 20 minutes. Remove from heat, and stir in mushrooms with their liquid, butter, chives, and parmesan."
+
+        }
+
+      ]
+    }
+
+  ]
+}
